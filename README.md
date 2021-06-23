@@ -1,2 +1,5 @@
-# material-for-python-classes
-This repository will contain all the files for future Python projects, exercies, and challenges I will be going over.
+# How to Use the Material
+#### Suggested Textbook: 
+The way I began teaching was by first starting off with the basics of each of lesson from the textbook. After the student felt confident in a specific lesson, I gave them several practice exercises. Of the ones linked in the repository, I believe the calculators were the simplest to start off with (and maybe some puzzles from the puzzles.py file). The textbook aslo has its own practice problems so I used that sometimes as well. In my opinion, the best way to learn a programming language is to just keep practicing and building off of what you already know. Thats why it's important to spend more time on letting the students practice writing their own programs than actually teaching the lesson. Another key thing about learning CS (especially if it's the student's first time) is teaching them to troubleshoot on their own. I noticed that for me personally, I actually spend more time fixing bugs in my code than actually writing it (idk could just be me being a bad programmer).
+
+This is the order in which I assigned the material to my past students:
