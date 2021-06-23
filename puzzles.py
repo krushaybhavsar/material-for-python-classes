@@ -1,8 +1,8 @@
-# HELPFUL LINKS
+'''This is a set of Python challenges that helps 
+students gain practice and confidence in their skills.'''
+
+# HELPFUL LINK
 # https://www.practicepython.org/
-# https://www.w3schools.com/python/ref_func_range.asp
-
-
 
 ############### PRIME OR COMPOSITE ###############
 '''
